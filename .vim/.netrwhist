@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/uchiyamashun/Documents/ruby/railsTest/book_admin/app/views/profile'
+let g:netrw_dirhist_2='/Users/uchiyamashun/Documents/ruby/railsTest/book_admin/app/views/books'
+let g:netrw_dirhist_3='/Users/uchiyamashun/Documents/ruby/railsTest/borrow_products/app/views/welcome'
+let g:netrw_dirhist_4='/Users/uchiyamashun/Documents/ruby/railsTest/borrow_products/app/views/layouts'
+let g:netrw_dirhist_5='/usr/local/var/webtest/sample'
+let g:netrw_dirhist_6='/Users/uchiyamashun/Documents/develop/eclipse_work/php/.metadata'
+let g:netrw_dirhist_7='/usr/local/dev/php/bbrent/storage/app'
+let g:netrw_dirhist_8='/usr/local/dev/php/sanctuary/wp-content/themes/nsp/css'
+let g:netrw_dirhist_9='/usr/local/etc/bash_completion.d'
